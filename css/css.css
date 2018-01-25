@@ -3,16 +3,16 @@ body{
 	padding: 0;
 font-size: 20px;	
 }
-.header{
+header{
 	background-color: blue;
 	padding: 3%;
 	text-align: center; 
 }
-.container{
+container{
 	background-color: red;
 padding: 3%
 }
-.footer{
+footer{
 	background-color: green;
 	padding : 3%;
 	text-align: center;
